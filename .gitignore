@@ -78,7 +78,3 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
-
-# Large files (optional - uncomment if needed)
-# *.pkl
-# *.joblib
